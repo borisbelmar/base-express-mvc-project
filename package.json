@@ -1,6 +1,6 @@
 {
   "name": "base-express-mvc-project",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This project is a base example for MVC pattern with Express and Handlebars",
   "scripts": {
     "start": "node src/index.js",
